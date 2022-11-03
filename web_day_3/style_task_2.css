@@ -1,0 +1,80 @@
+.flexandcenter {
+	display: flex;		
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.gotoright{
+	margin: 0 0 0 auto;
+ }
+ header {
+ 	background: #961d1d;
+ 	color: white;
+ 	padding: 20px;
+ }
+ .button > button{
+ 	background: #961d1d;
+ 	border: none;
+ 	color: white;
+ 	padding: 0 10px 0 0 ;
+ }
+
+.otstup {
+	margin-top: 20px;
+}
+.vpravo{
+	margin: auto;
+}
+.container {
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100% ;	
+}
+.container img {
+	padding: 20px;
+}
+.picture{
+	width: 22%;
+}
+.text{
+	width: 78%;
+}
+.colorblue{
+	background: #a1c9e6;
+}
+.container2 {
+	margin-top: 5px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100% ;	
+}
+.container2 div {
+	width: 24.5%;
+}
+
+.container2 img {
+	 width: 385px;
+}
+
+.image {
+	margin-right: 0.6%;
+}
+.image div{
+	width: 80%;
+}
+.container2 img {
+	width: 100%;
+}
+.container2 p{
+	margin: 0 0 0 10px;
+}
+.container2 h3{
+	margin: 0 0 0 10px;
+}
+.container2 button{
+	margin: 15px 0 0 15px;
+	background: #961d1d ;
+	color: white;
+	border: none;
+	padding: 4px 8px;
+}

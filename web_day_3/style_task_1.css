@@ -1,0 +1,73 @@
+.flexandcenter {
+	display: flex;		
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.gotoright{
+	margin: 0 0 0 auto;
+ }
+ header {
+ 	background: #4040cf;
+ 	color: white;
+ 	padding: 20px;
+
+ }
+ .button > button{
+ 	background: #4040cf;
+ 	border: none;
+ 	color: white;
+ 	padding: 0 10px 0 0 ;
+ }
+.login {
+	width: 15%;
+	margin-right: 1%;
+	}
+.login div {
+margin-left: 20px;
+}
+.text {
+	width: 56%;
+	margin-top: -20px;
+	margin-right: 1%;
+	justify-content: center;
+}
+.text a {
+	color: black;
+	font-weight: 800;
+	text-decoration: none
+}
+.text img{
+	width: 100%;
+}
+.table {
+	width: 25%;
+	border-collapse: collapse;
+	justify-content: center;
+}
+.delimna3 {
+	width: 100%;
+}
+
+.delimna3 button{
+	background: green;
+	color: white;
+	border-radius: 3px;
+}
+.delimna3 a{
+text-decoration: none;
+}
+.otstup {
+	margin-top: 30px;
+}
+.vpravo{
+	margin: auto;
+}
+.table tr:first-child { background: black; color: white; font-weight: 600;}
+.table tr:nth-child(2) {background: green;}
+.table tr:nth-child(n+3) {background: #67d670;}
+.table tr:nth-child(n+6) {background: #959c96;}
+.table tr:nth-child(n+19) {background: #ff8f8f;}
+td {
+	border: 1px black solid;
+}
+
